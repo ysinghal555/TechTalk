@@ -1,0 +1,21 @@
+body{
+    
+}
+
+.primary-background{
+    background: #0f232a;
+}
+
+.list-group-item.active {
+    z-index: 2;
+    color: #fff;
+    background-color: #0f232aed;
+    border-color: #000000;
+}
+/*#333a42*/
+
+.card-footer {
+    padding: .75rem 1.25rem;
+    background-color: rgb(227 234 244);
+    border-top: 1px solid rgba(0,0,0,.125);
+}
