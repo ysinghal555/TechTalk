@@ -40,7 +40,3 @@ Below you can see screenshots of the website :
 
 ![Screenshot (3150)](https://user-images.githubusercontent.com/49035527/133880521-bcca04fc-0ada-47ec-9cb0-babc0e1f21f9.png)
 
-
-This is the project structure.
-
-![Screenshot (3157)](https://user-images.githubusercontent.com/49035527/133880530-25f9c77a-3b33-4095-9366-a4fb67d03f5b.png)
